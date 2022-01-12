@@ -1,7 +1,7 @@
-Olá! Me chamo Carlos! 👋 
+Hello! My name is Carlos! 👋 
 
-Um web developer apaixonado por tecnologia, buscando transformar sonhos em realidade através da programação.
+A Web Developer passionate about technology, seeking to turn dreams into reality through programming.
 
-Linguagens e Ferramentas
+Languages and Tools
 
  -HTML , CSS , JAVASCRIPT
